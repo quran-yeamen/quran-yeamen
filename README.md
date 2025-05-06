@@ -37,7 +37,6 @@ Basic CRUD operations with MongoDB Atlas using Python and PyMongo.
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/quran-yeamen/)
-- [GitHub](https://github.com/quran-yeamen)
 
 ---
 
