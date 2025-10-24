@@ -8,9 +8,6 @@ I'm passionate about solving real-world problems through data, code, and creativ
 
 ## 🔧 Featured Projects
 
-🌐 **Solyte** *(Private)*  
-Mobile app for interest-based community events built with React Native & Firebase.  
-**Tech:** TypeScript · Firebase · React Native · Expo
 
 🧠 [**RealTime Video Classification**](https://github.com/quran-yeamen/RealTime-VideoClassification-DeepLearning)  
 Live video classification using GoogLeNet and OpenCV.  
