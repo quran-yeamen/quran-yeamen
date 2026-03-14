@@ -14,10 +14,6 @@ Live video classification using GoogLeNet and OpenCV.
 **Tech:** Python · Deep Learning · Computer Vision
 
 
-🖥️ [**Server Lifecycle ML**](https://github.com/quran-yeamen/ServerLifecycleML)  
-Predictive modeling on synthetic server data for lifecycle forecasting.  
-**Tech:** Python · Scikit-learn · Machine Learning
-
 ☁️ [**Azure Serverless Function Demo**](https://github.com/quran-yeamen/azure-serverless-function-demo)  
 Simple HTTP-trigger Azure Function app written in C#.  
 **Tech:** Azure Functions · C# · Serverless
