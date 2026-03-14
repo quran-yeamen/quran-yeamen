@@ -18,9 +18,6 @@ Live video classification using GoogLeNet and OpenCV.
 Simple HTTP-trigger Azure Function app written in C#.  
 **Tech:** Azure Functions · C# · Serverless
 
-🧪 [**MongoDB Atlas CRUD Starter**](https://github.com/quran-yeamen/atlas-crud-python-starter)  
-Basic CRUD operations with MongoDB Atlas using Python and PyMongo.  
-**Tech:** Python · MongoDB · Backend
 
 ---
 
