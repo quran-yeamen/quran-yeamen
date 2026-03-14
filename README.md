@@ -13,9 +13,6 @@ I'm passionate about solving real-world problems through data, code, and creativ
 Live video classification using GoogLeNet and OpenCV.  
 **Tech:** Python · Deep Learning · Computer Vision
 
-📊 [**IBM Data Capstone**](https://github.com/quran-yeamen/IBM_Data_Capstone)  
-End-to-end data science project with data collection, wrangling, and ML modeling.  
-**Tech:** Python · Pandas · Jupyter · Seaborn
 
 🖥️ [**Server Lifecycle ML**](https://github.com/quran-yeamen/ServerLifecycleML)  
 Predictive modeling on synthetic server data for lifecycle forecasting.  
